@@ -1,4 +1,4 @@
-To run the run_summarization.py borrowed from huggingface implemenation, we introduce two custom parameters:
+To run the run_summarization.py borrowed from [huggingface implemenation](https://github.com/huggingface/transformers/blob/main/examples/pytorch/summarization/run_summarization.py), we introduce two custom parameters:
   1. tokenizer_type which could be {BART/PEGASUS}
   2. domain_token_path which is the path of updated model vocabulary.
 
