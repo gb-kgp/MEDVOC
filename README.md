@@ -5,7 +5,16 @@
 
  2. ```data``` folder contains details on how you can acquire data that we used in this work.
 
-If you plan to use this work please use the following bibtex entry:
+Before you begin, please create two seperate python envs one for transformers (using requirements_transformers.txt) as follows:
+```
+conda create -n env_Transformers python=3.8
+pip install -r requirements_transformers.txt
+```
+
+and one for using QuickUMLS (using requirements_UMLS.txt) follwoing the setup as described in [QuickUMLS](https://github.com/Georgetown-IR-Lab/QuickUMLS) repo.
+
+
+If you plan to use this work, please use the following bibtex entry:
 
 ```
 @misc{balde2024medvoc,
