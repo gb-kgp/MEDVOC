@@ -4,4 +4,4 @@ We use 4 datasets in our study that are evaluated across three PLMs. Here we pro
 
  2. Dataset-CSVs: This contains train-valid-test splits as csvs which can be directly given as input to run_summarization.py script ```src/Model_Scripts/Transformers_Modified_Script/run_summarization.py``` for BART and PEGASUS models. The source document column is ```input_text``` and the reference summary column is ```target_text```.
 
- Please refer to the codebase of the specific models for further details.
+ Please refer to the codebase of the specific models for further details. You must download the [PAC](https://drive.google.com/drive/folders/1gxbUr6rWHuv6gLl85qBkVVQJvOxcfheQ?usp=sharing) dataset and unzip the csv in PAC folder.
