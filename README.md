@@ -1,5 +1,5 @@
 # Codebase for MEDVOC
- The official codebase for our IJCAI 2024 submission titled "MEDdVOC: Vocabulary Adaptation for Fine-tuning Pre-trained Language Models on Medical Text Summarization". We also provide the technical appendix for the submission. Preprint for the submission can be found [here](https://arxiv.org/abs/2405.04163)
+ The official codebase for our IJCAI 2024 submission titled "MEDVOC: Vocabulary Adaptation for Fine-tuning Pre-trained Language Models on Medical Text Summarization". We also provide the technical appendix for the submission. Preprint for the submission can be found [here](https://arxiv.org/abs/2405.04163)
 
  1.  ```src``` folder contains codebase for vocabulary adaption algorithm along with the modified codes to handle the models with updated vocabulary.
 
