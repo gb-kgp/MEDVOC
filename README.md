@@ -17,12 +17,18 @@ and one for using QuickUMLS (using requirements_UMLS.txt) follwoing the setup as
 If you plan to use this work, please use the following bibtex entry:
 
 ```
-@misc{balde2024medvoc,
-      title={MEDVOC: Vocabulary Adaptation for Fine-tuning Pre-trained Language Models on Medical Text Summarization}, 
-      author={Gunjan Balde and Soumyadeep Roy and Mainack Mondal and Niloy Ganguly},
-      year={2024},
-      eprint={2405.04163},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{ijcai2024p683,
+  title     = {MEDVOC: Vocabulary Adaptation for Fine-tuning Pre-trained Language Models on Medical Text Summarization},
+  author    = {Balde, Gunjan and Roy, Soumyadeep and Mondal, Mainack and Ganguly, Niloy},
+  booktitle = {Proceedings of the Thirty-Third International Joint Conference on
+               Artificial Intelligence, {IJCAI-24}},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},
+  editor    = {Kate Larson},
+  pages     = {6180--6188},
+  year      = {2024},
+  month     = {8},
+  note      = {Main Track},
+  doi       = {10.24963/ijcai.2024/683},
+  url       = {https://doi.org/10.24963/ijcai.2024/683},
 }
 ```
